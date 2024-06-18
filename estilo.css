@@ -144,8 +144,8 @@ header h1{
 }
 .carrito .carrito-item .btn-eliminar{
     position: absolute;
-    right: 15px;
-    top: 15px;
+    right: 20px;
+    top: 20px;
     color: #000;
     font-size: 20px;
     width: 40px;
